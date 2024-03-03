@@ -1,0 +1,26 @@
+{
+"name": "quantum-9934v",
+"version": "1.0.0",
+"description": "Advanced Quantum Computing Framework for Secure Data Encryption and Analysis",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/emoniemcm/02-Quantum.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "emoniemcm",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
